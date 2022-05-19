@@ -1,0 +1,14 @@
+footer {
+  background-color: var(--neutral-gray);
+  text-align: center;
+}
+
+.btn-footer {
+  color: #2e2e2e;
+  border: none;
+  text-decoration: underline wavy;
+}
+
+.btn-footer:hover {
+  color: #2e2e2e;
+}
